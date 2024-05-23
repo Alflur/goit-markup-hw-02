@@ -27,10 +27,6 @@ body {
   color: #2E2F42;
 }
 
-.header-link.current {
-  color: #404BBF;
-}
-
 .header-address {
   font-style: normal;
 }
