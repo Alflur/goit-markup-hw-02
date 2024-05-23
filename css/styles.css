@@ -27,6 +27,11 @@ body {
   color: #2E2F42;
 }
 
+.header-link:hover,
+.header-link:focus {
+  color: #404BBF;
+}
+
 .header-address {
   font-style: normal;
 }
