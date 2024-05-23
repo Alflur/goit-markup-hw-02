@@ -36,18 +36,15 @@ body {
   font-style: normal;
 }
 
-.header-mail,
-.header-tel {
+.header-contacts {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.header-mail:hover,
-.header-mail:focus,
-.header-tel:hover,
-.header-tel:focus {
+.header-contacts:focus,
+.header-contacts:hover, {
   color: #404BBF;
 }
 
