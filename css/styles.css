@@ -43,8 +43,8 @@ body {
   color: #434455;
 }
 
-.header-contacts:focus,
-.header-contacts:hover, {
+.header-contacts:hover,
+.header-contacts:focus {
   color: #404BBF;
 }
 
